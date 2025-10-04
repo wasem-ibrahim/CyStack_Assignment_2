@@ -1,5 +1,5 @@
 # CyStack_Assignment_2
-An implementation to the second Cystack assignment using Go language to build a client-server application that collects basic user's information about any OSX machine.
+Code built by Go language to build a client-server application that collects basic user's information about any OSX machine.
 
 ## Features:
 ### The application collects the following data: 
