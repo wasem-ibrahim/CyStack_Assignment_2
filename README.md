@@ -1,4 +1,4 @@
-# CyStack_Assignment_2
+# System Data Collection
 Code built by Go language to build a client-server application that collects basic user's information about any OSX machine.
 
 ## Features:
